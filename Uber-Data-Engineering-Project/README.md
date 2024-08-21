@@ -8,7 +8,7 @@ This project aims to showcase how powerful and scalable cloud-based tools can be
 
 ## Project Architecture
 
-![Project Architecture](architecture.jpg)
+![Project Architecture](architecture.png)
 
 ### Technologies Used
 
